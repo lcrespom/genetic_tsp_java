@@ -1,0 +1,15 @@
+body {
+	font-family: arial,sans-serif;
+}
+
+canvas {
+	border-style: groove;
+}
+
+.label {
+	font-weight: bold;
+	text-align: right;
+}
+
+.value {
+}
